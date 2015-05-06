@@ -1,11 +1,11 @@
 Mofa Notification
 =================
 
-一个通知菜单模块，使用了 [Mofabar.js](http://0q0.github.io/mofa-bar) 实现自定义滚动条，使用了 [Mofafix.js](http://0q0.github.io/mofa-fix) 来防止面板内的鼠标滚轮事件影响到外部页面。
+一个通知菜单模块，使用了 [Mofabar.js](http://weylin.me/mofa-bar) 实现自定义滚动条，使用了 [Mofafix.js](http://weylin.me/mofa-fix) 来防止面板内的鼠标滚轮事件影响到外部页面。
 
 ##Demo
 
-[戳这里](http://0q0.github.io/mofa-notification)
+[戳这里](http://weylin.me/mofa-notification/)
 
 ##Browser support
 
