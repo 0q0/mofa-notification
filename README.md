@@ -5,7 +5,7 @@ Mofa Notification
 
 ##Demo
 
-[戳这里](http://weylin.me/mofa-notification/)
+[戳这里](http://0q0.github.io/mofa-notification/)
 
 ##Browser support
 
